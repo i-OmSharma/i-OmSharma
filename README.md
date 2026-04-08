@@ -1,6 +1,6 @@
 ### Hey there!
 
-I’m **Om**, a Computer Science undergrad who builds and deploys backend and cloud-native systems.
+I’m **Om**, Computer Science undergrad who builds and deploys backend and cloud-native systems.
 
 If a system design idea seems interesting, I’ll spin it up on the cloud, deploy it, break it, and fix it until I understand it properly.
 
