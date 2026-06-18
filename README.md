@@ -23,7 +23,7 @@ How systems fail matters as much as how they run — security, scalability, and 
 - I play video games purely for fun
 
 ### Outside of code
-Guitar • Gym • Building things
+Guitar • Gym • Games
 
 ### Reach me
 - [LinkedIn](https://www.linkedin.com/in/om-sharma-020b9a249/)
