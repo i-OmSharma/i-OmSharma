@@ -11,7 +11,7 @@ I’m 2× Oracle Cloud Infrastructure certified and comfortable working across c
 ### What I work with
 Cloud & Infra: Linux, AWS, Kubernetes, Docker, Terraform  
 Backend: Node.js, TypeScript, Go  
-Architecture: Serverless systems, IAM design, CI/CD, cloud-native patterns  
+Architecture: Serverless systems, IAM design, CI/CD, cloud-native  
 
 I care about engineering decisions and trade-offs, not just tools.  
 How systems fail matters as much as how they run — security, scalability, and reliability matter to me.
