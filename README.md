@@ -17,7 +17,7 @@ I care about engineering decisions and trade-offs, not just tools.
 How systems fail matters as much as how they run — security, scalability, and reliability matter to me.
 
 ### Open Source
-Contributed to [Podman](https://github.com/containers/podman) (Red Hat) — merged [PR #29230](https://github.com/containers/podman/pull/29230), fixing an SELinux volume-warning note in `kube generate` so it only fires when actually relevant (rootless + SELinux-enabled hosts).
+Active contributor RedHat and CNCF.
 
 ### Fun facts
 - I own a guitar and I’m learning to play it
